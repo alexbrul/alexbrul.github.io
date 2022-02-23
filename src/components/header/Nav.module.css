@@ -1,0 +1,56 @@
+.container {
+    position: fixed;
+    display: grid;
+    grid-template-columns: 5% 1fr 2fr;
+    height: 40vh;
+    background: white;
+    color: black;
+    padding-top: 7vh;
+    width: 100%;
+    z-index: 98;
+}
+
+.container ul {
+    list-style-type: none;
+    list-style-position: inside;
+    padding: 10px;
+}
+
+.container h1 {
+    padding: 10px;
+}
+
+
+
+
+.par {
+    display: grid;
+    background-color: rgb(252, 248, 248);
+    margin: 10px;
+    width: 100%;
+    grid-template-columns: 10% 1fr 1fr 10%;
+    align-items: center;
+}
+
+.liClicked {
+    background-color: rgb(172, 172, 172);
+    transform: scale(1.0, 1.2);
+
+}
+
+.liNormal {
+    background-color: white;
+}
+.liNormal:hover {
+    background-color: rgb(126, 125, 125);
+    transform: scale(1.0, 1.2);
+    cursor: pointer;
+}
+
+.cards {
+    height: 70%;
+    margin: 15px;
+}
+.cards h2{
+    padding: 5px;
+}

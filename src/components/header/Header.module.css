@@ -1,0 +1,36 @@
+.container {
+    background-color: white;
+    display: grid;
+    height: 7vh;
+    grid-template-columns: 10% 1fr 1fr 10%;
+    align-items: center;
+    width: 100%;
+
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.2);
+  }
+
+
+  .container button {
+    width: 50px;
+    transition-duration: 0.4s;
+    border: none;
+    background-color: white;
+  }
+  .container button:hover {
+    background-color: #96D9FF;
+    cursor: pointer;
+    border-color: #003557;
+    transform: scale(1.2, 1.2);
+  }
+  .container img{
+    max-width: 95%;
+    max-height: 100%;
+    border: none;
+    padding-left: 10px;
+  }
+  .headerr{
+    position: fixed;
+    z-index: 99;
+    width: 100%;
+  }
+

@@ -1,0 +1,10 @@
+.container {
+    display: grid;
+    height: 300px;
+    width: 100%;
+    grid-template-columns: 20% 1fr 20%;
+    justify-items: center;
+    text-align: center;
+    color: white;
+    background: #192d47;
+}
