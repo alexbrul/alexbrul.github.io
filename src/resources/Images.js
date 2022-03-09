@@ -1,7 +1,7 @@
 export default [
   {
     src: "https://drive.google.com/uc?id=1_oA9Sx4D4DhFrYBFQdL0I1CUIz_LhQue",
-    text: "Our clients always come first. <br/>We serve them through time spent together, integrity, <br/>and a shared purpose of advancing sustainable design and financial opportunity.",
+    text: "Vi hjelper deg!",
   },
   {
     src: "https://drive.google.com/uc?id=1rJFs-8So16UCiDag__hG4yyf_RnC08Fa",

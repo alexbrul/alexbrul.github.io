@@ -14,7 +14,7 @@ const Slider = ({images}) => {
                 <i className="fas fa-angle-left"></i>
               </button>
              <div className="slider--feature">
-                <h1 className="feature--title">WebIOT</h1>
+                <h1 className="feature--title">Advokatfirmaet Bruland</h1>
                 <p ref={slideText} className="feature--text"></p>
               </div>
               <button onClick={goToNextSlide} className="slider__btn-right">
