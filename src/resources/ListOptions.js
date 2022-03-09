@@ -1,14 +1,14 @@
 export default [
     {
-        option: "Contact us",
+        option: "Kontakt oss:",
         sections: [
             {
-                title: "Contact us:",
-                text: ["TLF: 951 05 577", " E-mail: alexbrul.jobb@gmail.com",]
+                title: "Kontakt oss:",
+                text: ["TLF: 9208915", " E-mail: T@bruland.no",]
             },
             {
-                title: "Åpningstider:",
-                text: ['Hverdager: 08-17 <br/>',]
+                title: "Kontortider:",
+                text: ['Hverdager: 09-18',]
             }
         ]
     },
@@ -17,7 +17,7 @@ export default [
         sections: [
             {
                 title: "Våre lokaler",
-                text: ["Our clients always come first. <br/> </br> \n \r\n \n\n We serve them through time spent together, integrity, and a shared purpose of advancing sustainable design and financial opportunity.",]
+                text: ["Vi holder til i Drammensveien 82c.",]
 
             }
         ]
@@ -35,32 +35,32 @@ export default [
 
 
     },
-    {
-        option: "Et nytt menyobjekt",
-        sections: [
-            {
-                title: "Halla bagera :) ",
-                text: ["TLF: 951 05 577", " E-mail: alexbrul.jobb@gmail.com",]
-            },
-            {
-                title: "Åpningstider:",
-                text: ['Hverdager: 08-17',]
-            },
+    // {
+    //     option: "Et nytt menyobjekt",
+    //     sections: [
+    //         {
+    //             title: "Halla bagera :) ",
+    //             text: ["TLF: 951 05 577", " E-mail: alexbrul.jobb@gmail.com",]
+    //         },
+    //         {
+    //             title: "Åpningstider:",
+    //             text: ['Hverdager: 08-17',]
+    //         },
             
-        ]
-    },
-    {
-        option: "Avtal et møte",
-        sections: [
-            {
-                title: "Halla bagera :) ",
-                text: ["TLF: 951 05 577", " E-mail: alexbrul.jobb@gmail.com",]
-            },
-            {
-                title: "Åpningstider:",
-                text: ['Hverdager: 08-17',]
-            },
+    //     ]
+    // },
+    // {
+    //     option: "Avtal et møte",
+    //     sections: [
+    //         {
+    //             title: "Halla bagera :) ",
+    //             text: ["TLF: 951 05 577", " E-mail: alexbrul.jobb@gmail.com",]
+    //         },
+    //         {
+    //             title: "Åpningstider:",
+    //             text: ['Hverdager: 08-17',]
+    //         },
             
-        ]
-    },
+    //     ]
+    // },
 ]
